@@ -1,4 +1,6 @@
-# 🚀 WealthAgile - Smart Crypto Made Easy
+# 🚀 WealthAgile Application
+
+## Smart Crypto Made Easy
 
 Welcome to **WealthAgile**! Simplify your crypto journey with our platform, where 'Smart Crypto Made Easy' is more than just a motto. Manage your crypto assets 24/7 with ease, leveraging our auto-rebalancing of professional index portfolios designed to deliver consistent returns.
 
