@@ -14,7 +14,6 @@ New to crypto trading? No problem! Our **Index Portfolios** make managing your c
 - 💻 **Next.js** (Web version coming soon)
 - ☁️ **AWS Lambda** for serverless API
 - 🎨 **Figma** design to end-user UI conversion
-- 🎨 **Tailwind CSS**
 - 🟢 **Node.js**
 - 🗄️ **MongoDB**
 
